@@ -1,0 +1,4 @@
+I enjoyed learning about what tasks are easy vs. hard for AI to do, and 
+all the factors that make a Chess AI more simple than a Mars Rover AI such
+as fully observable vs. partially observable environments, and deterministic
+vs. stochastic actions. 
