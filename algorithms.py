@@ -1,15 +1,15 @@
 
-
-def task1():
-    #Task 1
-
-    #Checks if the inputted string is an int or a float
-    def isintorfloat(num):
+def isintorfloat(num):
         try:
             float(num)
             return True
         except:
             return False
+def task1():
+    #Task 1
+
+    #Checks if the inputted string is an int or a float
+    
 
     num = input("How many hours do you want to convert?\n")
     #Catches when the user accidentally inputs a string
